@@ -1,5 +1,5 @@
-- [[Pipeline-fMRI]]
-- [[Pipeline-MRI]]
+- [[Our-Pipeline-fMRI]]
+- [[Our-Pipeline-MRI]]
 - [[some papers]]
 -
 -
