@@ -13,7 +13,8 @@
 - [Simons Foundation Autism Research Initiative | SFARI](https://www.sfari.org/)
 	- Simons Variation in Individuals Project (Simons VIP)
 		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data
-		- sample size:
+		- sample size: more than 200
+		-
 		-
 -
 - 等待整理，参考文献[Functional connectome through the human life span - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37745373/)：
