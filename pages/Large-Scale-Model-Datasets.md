@@ -12,7 +12,7 @@
 -
 - [Simons Foundation Autism Research Initiative | SFARI](https://www.sfari.org/)
 	- Simons Variation in Individuals Project (Simons VIP)
-		- data modalities: fMRI, MRI, phenotypic, demographic
+		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data
 		- sample size:
 		-
 -
