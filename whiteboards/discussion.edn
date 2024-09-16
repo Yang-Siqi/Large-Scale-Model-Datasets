@@ -44,7 +44,44 @@
 :parentId "66e79d63-8916-4fb5-9d6f-b8547490c56b"
 :collapsedHeight 0
 :nonce 1726455289820}}
-:block/updated-at 1726455395014})
+:block/updated-at 1726455395014} 
+{:block/content "CRITICAL: Working with large, open-source samples can be a slow process and quite expensive. Investigators should consider the anticipated timeline for the analyses that will be necessary to address their research question, as well as associated costs for data storage and processing."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e79dfa-2ed5-44cd-aa8a-63df17113db7"}
+:block/parent 
+{:block/uuid #uuid "66e79d63-8916-4fb5-9d6f-b8547490c56b"}
+:block/properties 
+{}
+:block/uuid #uuid "66e835f0-368a-4cdd-87d4-68594caa34e7"} 
+{:block/created-at 1726494199303
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66e835f0-368a-4cdd-87d4-68594caa34e7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [576 136.99993871367025]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9baefa10-7431-11ef-8371-4b316b04c914"
+:noFill false
+:point [8 1064]
+:parentId "66e79d63-8916-4fb5-9d6f-b8547490c56b"
+:collapsedHeight 0
+:nonce 1726494188627}}
+:block/updated-at 1726494199303})
 :pages (
 {:block/uuid #uuid "66e79d63-8916-4fb5-9d6f-b8547490c56b"
 :block/properties 
@@ -56,8 +93,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("0a2bf2f0-73d7-11ef-8371-4b316b04c914")}}
-:block/updated-at 1726455395013
+:shapes-index ("0a2bf2f0-73d7-11ef-8371-4b316b04c914" "9baefa10-7431-11ef-8371-4b316b04c914")}}
+:block/updated-at 1726494199303
 :block/created-at 1726455139143
 :block/type "whiteboard"
 :block/name "discussion"
