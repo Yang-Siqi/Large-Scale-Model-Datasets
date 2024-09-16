@@ -2,6 +2,7 @@
 - [[Our-Pipeline-MRI]]
 - [[some papers]]
 -
+- ![image.png](../assets/image_1726474805429_0.png){:height 196, :width 575}
 -
 - ABCD(Adolescent Brain Cognitive Development)
 	-
@@ -11,7 +12,7 @@
 -
 - [Simons Foundation Autism Research Initiative | SFARI](https://www.sfari.org/)
 	- Simons Variation in Individuals Project (Simons VIP)
-		- data: fMRI, MRI, phenotypic, demographic
+		- data modalities: fMRI, MRI, phenotypic, demographic
 		- sample size:
 		-
 -
