@@ -8,7 +8,7 @@
 -
 - ENIGMA
 -
-- 等待整理，参考文献：
+- 等待整理，参考文献[Functional connectome through the human life span - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37745373/)：
 - ![image.png](../assets/image_1726455823132_0.png)
 -
 - ![image.png](../assets/image_1726455842806_0.png)
