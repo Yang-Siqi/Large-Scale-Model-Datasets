@@ -1,6 +1,6 @@
-- ![](https://ars.els-cdn.com/content/image/1-s2.0-S2666166721007838-gr1.jpg){:height 282, :width 323}
+- [[pipeline]]
 - [A protocol for working with open-source neuroimaging datasets - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2666166721007838?fr=RR-2&ref=pdf_download&rr=8c143d11fecf714f#fig1)
--
+- ![](https://ars.els-cdn.com/content/image/1-s2.0-S2666166721007838-gr1.jpg){:height 282, :width 323}
 -
 -
 -
