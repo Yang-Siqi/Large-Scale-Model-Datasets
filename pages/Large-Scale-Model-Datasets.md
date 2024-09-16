@@ -14,6 +14,7 @@
 	- Simons Variation in Individuals Project (Simons VIP)
 		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data
 		- sample size: more than 200
+		- access: All SSC and VIP data are available by request after logging into S[FARI Base](https://sfari.org/resources/sfari-base).
 		-
 		-
 -
