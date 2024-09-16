@@ -10,7 +10,7 @@
 -
 -
 - [Simons Foundation Autism Research Initiative | SFARI](https://www.sfari.org/)
-	-
+	- Simons Variation in Individuals Project (Simons VIP)
 -
 - 等待整理，参考文献[Functional connectome through the human life span - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37745373/)：
 - ![image.png](../assets/image_1726455823132_0.png)
