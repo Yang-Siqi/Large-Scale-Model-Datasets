@@ -13,9 +13,15 @@
 -
 - ## ENIGMA
 - ## UK Biobank
-- Reference:
+	-
+	- Reference:
+		- [Multimodal population brain imaging in the UK Biobank prospective epidemiological study | Nature Neuroscience](https://www.nature.com/articles/nn.4393)
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
+-
 -
 - ## SFARI(Simon Foundation Autism Research Initiative)
+	- Link: https://www.sfari.org/
 	- Simons Variation in Individuals Project (Simons VIP)
 		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data
 		- sample size: more than 200
@@ -23,8 +29,6 @@
 		-
 		-
 -
--
-- [Simons Foundation Autism Research Initiative | SFARI]()
 -
 - 等待整理，参考文献[Functional connectome through the human life span - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37745373/)：
 - ![image.png](../assets/image_1726455823132_0.png)
