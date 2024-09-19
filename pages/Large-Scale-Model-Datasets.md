@@ -13,7 +13,7 @@
 -
 - ## ENIGMA
 - ## UK Biobank
-	-
+	- data modalities:
 	- Reference:
 		- [Multimodal population brain imaging in the UK Biobank prospective epidemiological study | Nature Neuroscience](https://www.nature.com/articles/nn.4393)
 		  logseq.order-list-type:: number
