@@ -16,6 +16,7 @@
 - ## ENIGMA
 - ## UK Biobank
 	- Distription: UK Biobank is a prospective epidemiological resource gathering extensive questionnaires, physical and cognitive measures, and biological samples (including genotyping) in a cohort of 500,000 participants
+	- ![image.png](../assets/image_1726754945478_0.png)
 	- data modalities: r-fMRI, t-fMRI,  d-MRI, s-MRI,
 	- Reference:
 		- [Multimodal population brain imaging in the UK Biobank prospective epidemiological study | Nature Neuroscience](https://www.nature.com/articles/nn.4393)
