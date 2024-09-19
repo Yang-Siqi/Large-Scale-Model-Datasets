@@ -32,7 +32,9 @@
 		-
 		-
 - # LEAP
-	- id:: 66ec2d6f-03a8-4829-b623-44d541dc58d5
+	- ![image.png](../assets/image_1726754184191_0.png)
+	  id:: 66ec2d6f-03a8-4829-b623-44d541dc58d5
+	-
 	-
 -
 - 等待整理，参考文献[Functional connectome through the human life span - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37745373/)：
