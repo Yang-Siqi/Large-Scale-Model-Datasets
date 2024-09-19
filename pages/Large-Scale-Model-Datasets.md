@@ -26,7 +26,7 @@
 - ## SFARI(Simon Foundation Autism Research Initiative)
 	- Link: https://www.sfari.org/
 	- Simons Variation in Individuals Project (Simons VIP)
-		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data
+		- data modalities: fMRI, MRI, MEG, phenotypic, demographic, genomics data(SFARI is pleased to announce the release of genetic data for 119 Autism BrainNet brain tissue samples, including whole genome and whole exome data.)
 		- sample size: more than 200
 		- access: All SSC and VIP data are available by request after logging into S[FARI Base](https://sfari.org/resources/sfari-base).
 		-
