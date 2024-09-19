@@ -7,8 +7,9 @@
 - ABCD(Adolescent Brain Cognitive Development)
 	- Downloading the raw imaging data from ABCD can take days to weeks, depending on computational resources. Converting the imaging data from DICOM to NIfTI format can also take weeks. For a team of 3–4 investigators working to generate connectivity matrices, processing and QC can take upwards of 8–9 months.
 	- Reference:
-	- [The Adolescent Brain Cognitive Development (ABCD) study: Imaging acquisition across 21 sites - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1878929317301214)
-	-
+		- [The Adolescent Brain Cognitive Development (ABCD) study: Imaging acquisition across 21 sites - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1878929317301214)
+		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 -
 - ENIGMA
 -
