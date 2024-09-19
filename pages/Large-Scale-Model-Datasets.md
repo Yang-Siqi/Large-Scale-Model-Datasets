@@ -13,7 +13,7 @@
 -
 - ## ENIGMA
 - ## UK Biobank
-	- data modalities: r-fMRI, t-fMRI,  MRI, ,
+	- data modalities: r-fMRI, t-fMRI,  d-MRI, s-MRI,
 	- Reference:
 		- [Multimodal population brain imaging in the UK Biobank prospective epidemiological study | Nature Neuroscience](https://www.nature.com/articles/nn.4393)
 		  logseq.order-list-type:: number
