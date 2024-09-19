@@ -4,3 +4,8 @@
 -
 -
 - 2. [【2021】A hitchhiker’s guide to working with large, open-source neuroimaging datasets | Nature Human Behaviour](https://www.nature.com/articles/s41562-020-01005-4)
+- ![image.png](../assets/image_1726713084907_0.png)
+- ![image.png](../assets/image_1726713113004_0.png)
+  id:: 66eb8cfe-fbf7-42c4-80be-6f87fda4ae45
+-
+-
