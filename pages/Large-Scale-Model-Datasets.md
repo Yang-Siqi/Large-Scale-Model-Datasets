@@ -15,6 +15,7 @@
 		- logseq.order-list-type:: number
 -
 - ## ENIGMA
+	- ASD [ENIGMA-Autism « ENIGMA (usc.edu)](https://enigma.ini.usc.edu/ongoing/enigma-asd-working-group/)
 - ## UK Biobank
 	- Distription: UK Biobank is a prospective epidemiological resource gathering extensive questionnaires, physical and cognitive measures, and biological samples (including genotyping) in a cohort of 500,000 participants
 	- ![image.png](../assets/image_1726754945478_0.png)
