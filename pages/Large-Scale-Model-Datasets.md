@@ -20,7 +20,8 @@
 	- Reference:
 		- [Multimodal population brain imaging in the UK Biobank prospective epidemiological study | Nature Neuroscience](https://www.nature.com/articles/nn.4393)
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- [: Resource 1977 (ox.ac.uk)](https://biobank.ndph.ox.ac.uk/showcase/refer.cgi?id=1977) brain imaging discription
+		  logseq.order-list-type:: number
 -
 -
 - ## SFARI(Simon Foundation Autism Research Initiative)
